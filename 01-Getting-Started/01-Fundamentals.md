@@ -10,7 +10,7 @@ Before diving into the “why,” let’s talk about what an **Operating System 
 
 Users and software applications want to communicate with computer hardware—but they can’t do it directly.
 
-![Alt Text](https://github.com/omkarsharma2821/Linux-Ultimate-Cheat-Sheet/blob/master/Untitled%20Diagram.drawio.png)
+![why linux? windows](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ebgukpet4a0tc97d1qv.png) 
 
 
 Let’s break that down:

@@ -11,7 +11,7 @@ This tells us:
 - root – the username you're logged in as.
 - hostname – the name of the machine.
 - / – the current directory (this is the root directory).
-- # – signifies you're logged in as the root user (administrator privileges).
+- #-signifies you're logged in as the root user (administrator privileges).
 
 If you're using an AWS EC2 Ubuntu instance, the prompt might look like:
 
