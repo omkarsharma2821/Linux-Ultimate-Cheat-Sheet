@@ -1,5 +1,3 @@
-# Which Linux Command Creates Files Best?
-
 ## 1. Using `cat` Command
 
 The `cat` command can be used to create and view files, but **cannot be used to edit existing content**.
@@ -11,7 +9,7 @@ cat > file1
 - (>) redirects output into the file.
 - Use Ctrl + D to save and exit.
 
-## Append to a File
+### Append to a File
 ```
 cat >> file1
 ```
@@ -19,7 +17,7 @@ cat >> file1
 - Note: `cat` is not a text editor.
 - `cat` >> file1 { >> use to add new data without changing existing data} 
 
-## Concatenate Files
+### Concatenate Files
 ```bash
 cat file1 file2 > file3 
 ```
@@ -32,6 +30,7 @@ file3.
 cat file1 > file2
 ```
 - Copy Content from One File to Another
+
 ## 2 Using Touch Command
 ```bash
 touch <filename>
