@@ -1,7 +1,7 @@
 # Process Management 
 
-- Process is an instance of a running program 
-- e.g python program shell script web server or app server 
+Process is an instance of a running program. e.g python program shell script web server or app server.
+ 
 - `ps aux | nl #check the no. of running process`
 - `ps aux | wc –l #word count` 
 - `ps –ef`
